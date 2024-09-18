@@ -1,2 +1,2 @@
-# projeto-horus-heresy2.0
+# project-horus-heresy
  New project
